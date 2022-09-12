@@ -1,5 +1,7 @@
 Requires Python 2.7 & PyGame.  
 Open Game.exe to start the game.  
+
+![alt text](https://images2.imgbox.com/d0/93/RQaLZL95_o.gif)
   
 Game Controls  
 -=======================-  
