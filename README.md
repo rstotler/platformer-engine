@@ -1,11 +1,5 @@
 Requires Python 2.7 & PyGame.  
 Open Game.exe to start the game.  
-
-![alt text](https://github.com/rstotler/gifs/blob/main/Platformer-Combat1.gif)
-![alt text](https://github.com/rstotler/gifs/blob/main/Platformer-Ramps.gif)
-![alt text](https://github.com/rstotler/gifs/blob/main/Platformer-Steps.gif)
-![alt text](https://github.com/rstotler/gifs/blob/main/Platformer-MoveableObjects.gif)
-![alt text](https://github.com/rstotler/gifs/blob/main/Platformer-CircleCollision.gif)
   
 Game Controls  
 -=======================-  
@@ -36,5 +30,9 @@ Ctrl + S - Save Sheet Data
 Ctrl + L - Load Sheet Data (Automatically tries to load default sprite sheet on start-up)  
 F1 - Toggle Debug Info  
 Escape - Terminate Program  
-  
-Thanks for playing!  
+
+![alt text](https://github.com/rstotler/gifs/blob/main/Platformer-Combat1.gif)
+![alt text](https://github.com/rstotler/gifs/blob/main/Platformer-MoveableObjects.gif)
+![alt text](https://github.com/rstotler/gifs/blob/main/Platformer-Steps.gif)
+![alt text](https://github.com/rstotler/gifs/blob/main/Platformer-Ramps.gif)
+![alt text](https://github.com/rstotler/gifs/blob/main/Platformer-CircleCollision.gif)
