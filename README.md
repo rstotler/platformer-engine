@@ -25,8 +25,17 @@ F3 - Toggle Zoom
 Escape - Terminate Program  
 ```
 
-![alt text](https://github.com/rstotler/gifs/blob/main/Platformer-Combat1.gif)
-![alt text](https://github.com/rstotler/gifs/blob/main/Platformer-MoveableObjects.gif)
-![alt text](https://github.com/rstotler/gifs/blob/main/Platformer-Steps.gif)
-![alt text](https://github.com/rstotler/gifs/blob/main/Platformer-Ramps.gif)
-![alt text](https://github.com/rstotler/gifs/blob/main/Platformer-CircleCollision.gif)
+![alt text](https://github.com/rstotler/gifs/blob/main/Platformer-Combat1.gif)  
+Combat example  
+  
+![alt text](https://github.com/rstotler/gifs/blob/main/Platformer-MoveableObjects.gif)  
+Collision detection/moveable objects  
+  
+![alt text](https://github.com/rstotler/gifs/blob/main/Platformer-Steps.gif)  
+Step collision detection  
+  
+![alt text](https://github.com/rstotler/gifs/blob/main/Platformer-Ramps.gif)  
+Ramps/angle testing  
+  
+![alt text](https://github.com/rstotler/gifs/blob/main/Platformer-CircleCollision.gif)  
+Circle/square collision detection  
