@@ -15,21 +15,6 @@ F1 - Toggle Display Hit Boxes
 F2 - Toggle Collision Rects  
 F3 - Toggle Zoom  
 Escape - Terminate Program  
-  
-  
-Sprite-Rigger Controls  
--====================-  
-Spacebar - Pause/Play  
-Left Click + Drag - Move Screen  
-Mouse Wheel - Increase/Decrease Play Speed  
-Arrows Left/Right - Scroll Frames  
-Arrows Left/Right + Shift - Scroll Animations  
-Arrows Up/Down - Scroll Sprite Sheets  
-Arrow Keys + Ctrl - Move Frame xMod + yMod  
-Ctrl + S - Save Sheet Data  
-Ctrl + L - Load Sheet Data (Automatically tries to load default sprite sheet on start-up)  
-F1 - Toggle Debug Info  
-Escape - Terminate Program  
 
 ![alt text](https://github.com/rstotler/gifs/blob/main/Platformer-Combat1.gif)
 ![alt text](https://github.com/rstotler/gifs/blob/main/Platformer-MoveableObjects.gif)
