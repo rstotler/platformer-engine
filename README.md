@@ -24,6 +24,8 @@ F3 - Toggle Zoom
 Escape - Terminate Program  
 ```
 
+## Gameplay
+  
 Combat example  
 ![alt text](https://github.com/rstotler/gifs/blob/main/Platformer-Combat1.gif)  
   
