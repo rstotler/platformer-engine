@@ -1,7 +1,6 @@
 # Platformer Engine
 
 Requires Python 2.7 & PyGame.  
-Open Game.exe to start the game.  
   
 - 60 FPS
 - Game processes only what is on screen
