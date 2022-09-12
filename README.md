@@ -4,7 +4,7 @@ Requires Python 2.7 & PyGame.
   
 - 60 FPS
 - Game processes only what is on screen
-- Collision detection
+- Rect/rect & rect/circle collision detection
 - Sprite animations
   
 ## Game Controls  
